@@ -1,5 +1,5 @@
 # EmotiW2017_Group
-The source code of our method in paper "Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons", Xin Guo, Luisa Polania and Kenneth Barner, which scored the second place in Group-level Emotion Recognition sub-challenge of EmotiW2017.
+Providing here is the source code of paper "Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons", which scored the second place in Group-level Emotion Recognition sub-challenge of EmotiW2017.
 
 EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 
