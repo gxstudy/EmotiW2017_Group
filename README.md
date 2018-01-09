@@ -15,7 +15,7 @@ EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 
 ################################# Preprocesssing ##############################
 1. Make sure all the images are ended with .jpg or .png by the following steps:
-  1) Copy test data to ./data folder. Double check wheather there is ambiguity in 2 files' names(family-get-together-002.jpg and family-get-together-002.png) in the test data. If so, rename family-get-together-002.png to family-get-together-002_1.png. 
+    1) Copy test data to ./data folder. Double check wheather there is ambiguity in 2 files' names(family-get-together-002.jpg and family-get-together-002.png) in the test data. If so, rename family-get-together-002.png to family-get-together-002_1.png. 
   2) If the folder name of testing images is Distribution, rename the folder to be Test. 
   3) cd preprocesing
   4) Convert .jpeg file to .jpg file using convert_jpeg2jpg.m (run in Matlab), the resulting test data folder is Test_converted1.
