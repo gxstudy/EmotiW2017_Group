@@ -7,10 +7,11 @@ EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 1. Souce code provided here doesn't include the testing data, users need to put the testing data from Group Affect Database 2.0 into the data folder. 
 2. Souce code provided here doesn't include , users need to download and install them as instructed by those packages. 
 3. Caffemodels download link: https://drive.google.com/drive/folders/1tXVIw5k4RAVuLDVsD3bsUs4MaVxWT16w?usp=sharing , please put the models into corresponding folder after downloaded. 
+
 #################################Prerequisites##################################
-ubuntu 16.04
-Caffe: https://github.com/BVLC/caffe  (with cuda installed)
-Matlab R2015a
+1. ubuntu 16.04
+2. Caffe: https://github.com/BVLC/caffe  (with cuda installed)
+3. Matlab R2015a
 
 ################################# Preprocesssing ##############################
 1. Make sure all the images are ended with .jpg or .png by the following steps:
@@ -46,7 +47,7 @@ Matlab R2015a
   3) Since the extracted images are of same dimensions which is different from the dimensions of original images, so we convert it back them back to original dimensions using: restore_image_dimensions_withHand.m and restore_image_dimensions_withOutHand.m
 
 
-#################################Extract predictions ##############################
+################################# Extract predictions ##############################
 1. Extract predictions for vgg faces
   1) cd vgg_faces
   2) python classify_faces_oversample.py to extract prediction of vgg face classifiers and fc6 features.
@@ -72,8 +73,8 @@ Matlab R2015a
 
 5. python fusion, the resulting label will be saved in 6 - UD-GPB - Group.
 
-Citations: 
-1. Please cite the following paper if it helps your research:
+################################# Citations ##############################
+  1. Please cite the following paper if it helps your research:
 Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons - Xin Guo, Luisa Polania and Kenneth Barner.
 
-2. Please also cite corresponding papers if you use any of them related to the work. 
+  2. Please also cite corresponding papers if you use any of them related to the work. 
