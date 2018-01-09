@@ -6,7 +6,7 @@ EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 ################################# General ##################################
 1. Souce code provided here doesn't include the testing data, users need to put the testing data from Group Affect Database 2.0 into the data folder. 
 2. Souce code provided here doesn't include , users need to download and install them as instructed by those packages. 
-
+3. Caffemodels download link: , please put the models into corresponding folder after downloaded. 
 #################################Prerequisites##################################
 ubuntu 16.04
 Caffe: https://github.com/BVLC/caffe  (with cuda installed)
@@ -71,3 +71,9 @@ Matlab R2015a
   3) cd ..
 
 5. python fusion, the resulting label will be saved in 6 - UD-GPB - Group.
+
+Citations: 
+1. Please cite the following paper if it helps your research:
+Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons - Xin Guo, Luisa Polania and Kenneth Barner.
+
+2. Please also cite corresponding papers if you use any of them related to the work. 
