@@ -6,7 +6,7 @@ EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 ################################# General ##################################
 1. Souce code provided here doesn't include the testing data, users need to put the testing data from Group Affect Database 2.0 into the data folder. 
 2. Souce code provided here doesn't include , users need to download and install them as instructed by those packages. 
-3. Caffemodels download link: , please put the models into corresponding folder after downloaded. 
+3. Caffemodels download link: https://drive.google.com/drive/folders/1tXVIw5k4RAVuLDVsD3bsUs4MaVxWT16w?usp=sharing , please put the models into corresponding folder after downloaded. 
 #################################Prerequisites##################################
 ubuntu 16.04
 Caffe: https://github.com/BVLC/caffe  (with cuda installed)
