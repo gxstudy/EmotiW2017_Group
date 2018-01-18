@@ -1,5 +1,5 @@
 # EmotiW2017_Group
-Providing here is the source code of paper "Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons", which scored the second place in Group-level Emotion Recognition sub-challenge of EmotiW2017. Paper is available at https://dl.acm.org/citation.cfm?id=3143017&CFID=851331041&CFTOKEN=34594234
+This repository contains the code of the paper "Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons", which scored the second place in Group-level Emotion Recognition sub-challenge of EmotiW2017. Paper is available at https://dl.acm.org/citation.cfm?id=3143017&CFID=851331041&CFTOKEN=34594234
 
 EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 
