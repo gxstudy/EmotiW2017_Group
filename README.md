@@ -78,4 +78,23 @@ EmotiW2017 Challenge website: https://sites.google.com/site/emotiwchallenge/
 1. Please cite the following paper if it helps your research:
 Group-Level Emotion Recognition using Deep Models on Image Scene, Faces, and Skeletons - Xin Guo, Luisa Polania and Kenneth Barner.
 
+Bibtex:
+@inproceedings{Guo:2017:GER:3136755.3143017,
+ author = {Guo, Xin and Polan\'{\i}a, Luisa F. and Barner, Kenneth E.},
+ title = {Group-level Emotion Recognition Using Deep Models on Image Scene, Faces, and Skeletons},
+ booktitle = {Proceedings of the 19th ACM International Conference on Multimodal Interaction},
+ series = {ICMI 2017},
+ year = {2017},
+ isbn = {978-1-4503-5543-8},
+ location = {Glasgow, UK},
+ pages = {603--608},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/3136755.3143017},
+ doi = {10.1145/3136755.3143017},
+ acmid = {3143017},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Decision fusion, Deep learning, EmotiW 2017, Emotion Recognition, Group level happiness prediction, Multi-model},
+}
+
 2. Please also cite corresponding reference papers if you use any of them related to this work. 
